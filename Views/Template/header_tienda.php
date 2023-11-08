@@ -227,13 +227,11 @@
 
 				<li>
 					<div class="right-top-bar flex-w h-full">
-						<a href="#" class="flex-c-m p-lr-10 trans-04" data-toggle="modal" data-target="#modalAyuda">
-							Help & FAQs
-						</a>
+						
 						<?php 
 							if(isset($_SESSION['login'])){
 						?>
-						<a href="<?= base_url() ?>/dashboard" class="flex-c-m trans-04 p-lr-25">
+						<a href="<?= base_url() ?>/pedidos" class="flex-c-m trans-04 p-lr-25">
 							Mi cuenta
 						</a>
 						<?php } 
