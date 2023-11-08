@@ -227,7 +227,9 @@
 
 				<li>
 					<div class="right-top-bar flex-w h-full">
-						
+						<a href="#" class="flex-c-m p-lr-10 trans-04" data-toggle="modal" data-target="#modalAyuda">
+							Help & FAQs
+						</a>
 						<?php 
 							if(isset($_SESSION['login'])){
 						?>
