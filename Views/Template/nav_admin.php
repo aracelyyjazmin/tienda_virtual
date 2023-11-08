@@ -16,10 +16,7 @@
         </li>
         <?php if(!empty($_SESSION['permisos'][1]['r'])){ ?>
         <li>
-            <a class="app-menu__item" href="<?= base_url(); ?>/dashboard">
-                <i class="app-menu__icon fa fa-dashboard"></i>
-                <span class="app-menu__label">Dashboard</span>
-            </a>
+            
         </li>
         <?php } ?>
         <?php if(!empty($_SESSION['permisos'][2]['r'])){ ?>

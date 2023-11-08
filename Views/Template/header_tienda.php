@@ -116,7 +116,7 @@
 						<?php 
 							if(isset($_SESSION['login'])){
 						?>
-						<a href="<?= base_url() ?>/dashboard" class="flex-c-m trans-04 p-lr-25">
+						<a href="<?= base_url() ?>/pedidos" class="flex-c-m trans-04 p-lr-25">
 							Mi cuenta
 						</a>
 						<?php } 
