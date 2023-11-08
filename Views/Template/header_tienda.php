@@ -139,7 +139,7 @@
 					
 					<!-- Logo desktop -->		
 					<a href="<?= base_url(); ?>" class="logo">
-						<img src="<?= media() ?>/tienda/images/logo.png" alt="Tienda Virtual">
+						<h5 style="color: darkred; " >CONSORCIO BONNY</h5>
 					</a>
 
 					<!-- Menu desktop -->
@@ -161,9 +161,7 @@
 								<a href="<?= base_url(); ?>/nosotros">Nosotro</a>
 							</li>
 
-							<li>
-								<a href="<?= base_url(); ?>/sucursales">Sucursales</a>
-							</li>
+							
 
 							<li>
 								<a href="<?= base_url(); ?>/contacto">Contacto</a>
