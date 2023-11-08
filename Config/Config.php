@@ -9,7 +9,7 @@
 	const DB_HOST = "localhost";
 	const DB_NAME = "db_tiendavirtual";
 	const DB_USER = "root";
-	const DB_PASSWORD = "";
+	const DB_PASSWORD = "123456789";
 	const DB_CHARSET = "utf8";
 
 	//Para envío de correo
@@ -20,8 +20,8 @@
 	const SPM = ",";
 
 	//Simbolo de moneda
-	const SMONEY = "$";
-	const CURRENCY = "USD";
+	const SMONEY = "s/.";
+	const CURRENCY = "PEN";
 
 	//Api PayPal
 	//SANDBOX PAYPAL
@@ -34,22 +34,22 @@
 	//const SECRET = "";
 
 	//Datos envio de correo
-	const NOMBRE_REMITENTE = "Tienda Virtual";
-	const EMAIL_REMITENTE = "no-reply@abelosh.com";
-	const NOMBRE_EMPESA = "Tienda Virtual";
-	const WEB_EMPRESA = "www.abelosh.com";
+	const NOMBRE_REMITENTE = "Consorcio Bonny S.A.C";
+	const EMAIL_REMITENTE = "info@consorciobonny.com";
+	const NOMBRE_EMPESA = "Consorcio Bonny";
+	const WEB_EMPRESA = "www.consorciobonny.com";
 
-	const DESCRIPCION = "La mejor tienda en línea con artículos de moda.";
-	const SHAREDHASH = "TiendaVirtual";
+	const DESCRIPCION = "La mejor tienda en línea con productos de calidad";
+	const SHAREDHASH = "Consorcio Bonny";
 
 	//Datos Empresa
-	const DIRECCION = "Avenida las Américas Zona 13, Guatemala";
-	const TELEMPRESA = "+(502)78787845";
-	const WHATSAPP = "+50278787845";
-	const EMAIL_EMPRESA = "info@abelosh.com";
-	const EMAIL_PEDIDOS = "info@abelosh.com"; 
-	const EMAIL_SUSCRIPCION = "info@abelosh.com";
-	const EMAIL_CONTACTO = "info@abelosh.com";
+	const DIRECCION = "PJ. GIRALDES NRO. 49 FND. MERCADO PRODUCTORES DE SANTA ANITA";
+	const TELEMPRESA = "+51 930 637 726";
+	const WHATSAPP = "+51 930 637 726";
+	const EMAIL_EMPRESA = "info@consorciobonny.com";
+	const EMAIL_PEDIDOS = "info@consorciobonny.com"; 
+	const EMAIL_SUSCRIPCION = "info@consorciobonny.com";
+	const EMAIL_CONTACTO = "info@consorciobonny.com";
 
 	const CAT_SLIDER = "1,2,3";
 	const CAT_BANNER = "4,5,6";
@@ -100,6 +100,7 @@
 	//REDES SOCIALES
 	const FACEBOOK = "https://www.facebook.com/abelosh";
 	const INSTAGRAM = "https://www.instagram.com/febel24/";
+	//const WHATSAPP = "https://wa.link/7vh4ki";
 	
 
  ?>
