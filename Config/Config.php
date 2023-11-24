@@ -1,6 +1,6 @@
 <?php 
 	const BASE_URL = "http://localhost/tienda_virtual";
-	//const BASE_URL = "https://abelosh.com/tiendavirtual";
+	//const BASE_URL = "";
 
 	//Zona horaria
 	date_default_timezone_set('America/Guatemala');
@@ -20,7 +20,7 @@
 	const SPM = ",";
 
 	//Simbolo de moneda
-	const SMONEY = "s/.";
+	const SMONEY = "s/";
 	const CURRENCY = "PEN";
 
 	//Api PayPal
@@ -98,8 +98,8 @@
 	const PROBUSCAR = 4;
 
 	//REDES SOCIALES
-	const FACEBOOK = "https://www.facebook.com/abelosh";
-	const INSTAGRAM = "https://www.instagram.com/febel24/";
+	// const FACEBOOK = "https://www.facebook.com/abelosh";
+	// const INSTAGRAM = "https://www.instagram.com/febel24/";
 	//const WHATSAPP = "https://wa.link/7vh4ki";
 	
 
